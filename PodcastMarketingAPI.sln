@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PodcastMarketingAPI", "PodcastMarketingAPI\PodcastMarketingAPI.csproj", "{9F93F0D5-08F8-42C5-915B-BC4772B10F52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F93F0D5-08F8-42C5-915B-BC4772B10F52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F93F0D5-08F8-42C5-915B-BC4772B10F52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F93F0D5-08F8-42C5-915B-BC4772B10F52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F93F0D5-08F8-42C5-915B-BC4772B10F52}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC7A3229-B5A3-4744-ACB2-00EF87E5EBA2}
+	EndGlobalSection
+EndGlobal
