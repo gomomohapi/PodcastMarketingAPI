@@ -7,7 +7,7 @@ The full demonstration can be found in this YouTube video: [Build your own agent
 
 ### How it works
 
-[picture]
+![PodcastMarketingAPI Process](https://raw.githubusercontent.com/gomomohapi/PodcastMarketingAPI/refs/heads/master/podcast-api-process.png)
 
  1. Starting from the podcast URL, you get the podcast transcription with the Whisper model
  2. Given that transcript, you use GPT 4.1 to extract the name of the guest
